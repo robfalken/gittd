@@ -1,1 +1,1 @@
-Git Things Done
+Git branch switcher
